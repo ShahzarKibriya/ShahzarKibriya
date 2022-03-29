@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahzarKibriya
-- 👀 I’m love to write code & am interested in web designing and app development
+- 👀 I love to write code & am interested in web designing and app development
 - 🌱 I’m currently learning Android app development
 
 <!---
