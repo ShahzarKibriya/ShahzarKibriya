@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShahzarKibriya
+- 👋 Hi, I’m @ShahzarMazhar
 - 👀 I love to write code & am interested in web designing and app development
 - 🌱 I’m currently learning Web Development
 - Start 01/04/2022 completion target 31/05/2022
