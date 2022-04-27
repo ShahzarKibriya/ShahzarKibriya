@@ -1,9 +1,12 @@
 
-<h1 align="center">Hi, i'm Shahzar Mazhar.</h1>
-<h2 align="center">self-taught programmer.</h2>
- 
-
+# Hi, i'm Shahzar Mazhar
+## Self-taught programmer
 ### Contributions
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzarmazhar&show_icons=true&locale=en" alt="Shahzar Mazhar" />
+ 
+ ![Shahzar Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzarmazhar&show_icons=true&theme=react)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzarmazhar&show_icons=true&locale=en&layout=compact" alt="Shahzar Mazhar" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzarmazhar&layout=compact&theme=react&langs_count=10)](https://github.com/ShahzarMazhar?tab=repositories)
+
+<!-- <a href="https://github.com/ShahzarMazhar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzarMazhar&repo=glossy-calculator" />
+</a> -->
