@@ -49,10 +49,10 @@ szmazhr
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/shahzarmazharog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahzarmazharog" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzarmazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzarmazhar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shahzarmazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shahzarmazhar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shahzarmazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shahzarmazhar" height="30" width="40" /></a>
-<a href="https://dev.to/shahzarmazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahzarmazhar" height="30" width="40" /></a>
-<a href="https://codepen.io/shahzarmazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shahzarmazhar" height="30" width="40" /></a>
+<a href="https://twitter.com/szmazhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahzar Mazhar Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/szmazhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahzar Mazhar Instagram" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3705863/shahzar-mazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Shahzar Mazhar Stack Overflow" height="30" width="40" /></a>
+<a href="https://hashnode.com/@szmazhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Shahzar Mazhar Hashnode" height="30" width="40" /></a>
+<a href="https://dev.to/szmazhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Shahzar Mazhar DevTo" height="30" width="40"/></a>
+<a href="https://codepen.io/shahzarmazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Shahzar Mazhar CodePen" height="30" width="40"/></a>
 </p>
