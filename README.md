@@ -47,6 +47,8 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://astro.build" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/></a>
 <a href="https://nodejs.dev/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
 
