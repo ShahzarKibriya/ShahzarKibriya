@@ -20,7 +20,7 @@
 
 [![Shahzar Mazhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=szmazhr&show_icons=true&locale=en&theme=react "Shahzar Mazhar's GitHub Stats")](https://github.com/szmazhr?tab=repositories)
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=szmazhr&show_icons=true&locale=en&layout=compact&theme=react "Shahzar Mazhar")](https://github.com/szmazhr?tab=repositories)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=szmazhr&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10 "Shahzar Mazhar")](https://github.com/szmazhr?tab=repositories)
 
 ### Languages and Tools:
 
