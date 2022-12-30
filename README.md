@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **Android App Development**
 
 - 👨‍💻 All of my projects are available at https://shahzar.in
 
@@ -41,6 +41,7 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
 <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/></a>
+<a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 </p>
 
 
