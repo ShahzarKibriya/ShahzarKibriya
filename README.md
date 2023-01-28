@@ -42,6 +42,7 @@
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
 <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/></a>
 <a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
 
