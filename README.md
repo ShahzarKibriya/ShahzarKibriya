@@ -18,6 +18,8 @@
 
 <br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/489677179744157698?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/489677179744157698?idleMessage=Probably%20doing%20something%20else...)
+
 [![Shahzar Mazhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=szmazhr&show_icons=true&locale=en&theme=react "Shahzar Mazhar's GitHub Stats")](https://github.com/szmazhr?tab=repositories)
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=szmazhr&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10 "Shahzar Mazhar")](https://github.com/szmazhr?tab=repositories)
