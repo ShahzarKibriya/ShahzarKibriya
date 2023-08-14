@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Orgenizing Things**
+- 🌱 I’m currently learning **Organizing Things**
 
 - 👨‍💻 All of my projects are available at https://shahzar.in
 
