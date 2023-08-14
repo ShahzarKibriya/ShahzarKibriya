@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Orgenizing Things**
 
 - 👨‍💻 All of my projects are available at https://shahzar.in
 
